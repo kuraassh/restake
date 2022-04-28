@@ -1624,7 +1624,7 @@
   },
   {
     "name": "evmos",
-    "enabled": true,
+    "enabled": false,
     "apyEnabled": false,
     "restUrl": [
       "https://rest.cosmos.directory/evmos"
